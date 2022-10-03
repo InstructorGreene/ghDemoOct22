@@ -1,3 +1,3 @@
 print("Hello World")
-print("to sleep, perchance to dream")
+print("Alas, poor yorrick")
 print("Goodbye world")
